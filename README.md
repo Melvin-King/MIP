@@ -1,12 +1,12 @@
-**How Large Language Models Empower the Analysis of Online Public Engagement for Mega Infrastructure Projects: Cases in Hong Kong
+**How Large Language Models Empower the Analysis of Online Public Engagement for Mega Infrastructure Projects: Cases in Hong Kong** (IEEE Transactions on Engineering Management)
 
 <h3>
   <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17"><img src="https://img.shields.io/badge/Paper-link-important"></a>
 </h3> 
 
-The paper is accepted by IEEE Transactions on Engineering Management.
+The paper is accepted by IEEE Transactions on Engineering Management on March 15, 2025.
 
-Code is currently processing for final publication. Stay tuned!
+Code is currently processing for final publication. **Stay tuned!**
 
 ### Citation
 
